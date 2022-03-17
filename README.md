@@ -13,7 +13,7 @@ Check out what I'm currently working on/learning here!
 <hr>
 <!-- Most Used Languages Infograph then Tools & Languages -->
 <a href="https://github.com/Sonya-7">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=chartreuse-dark" alt="Top languages" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=blue-green" alt="Top languages" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@ Check out what I'm currently working on/learning here!
 
 <!-- Statistics -->
 
-![](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=blue-green)
 <!--
 **Sonya-7/Sonya-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
