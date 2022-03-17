@@ -4,7 +4,7 @@
 ## 👨🏾‍💻About Me:
 I am Sonya {Urainian for wisdom}, an Accountant with Data Science aspirations. In my spare time, I’m either practicing coding, watching Bloomberg or reading up on the latest technological machine learning innovations. I am highly interested in providing skills to a company within the fintech, investment, or technology industry. 
 
-Check out what I'm currently working on here!
+Check out what I'm currently working on/learning here!
 
 <!-- Link To My Main Site -->
 <!-- ## Digital Home -->
@@ -22,3 +22,17 @@ Check out what I'm currently working on here!
 <!-- Statistics -->
 
 ![](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=chartreuse-dark)
+<!--
+**Sonya-7/Sonya-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
