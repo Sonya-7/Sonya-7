@@ -2,7 +2,7 @@
 
 <!-- Text Under Headline -->
 ## 👨🏾‍💻About Me:
-I am Sonya {Urainian for wisdom}, an Accountant with Data Science aspirations. In my spare time, I’m either practicing coding, watching Bloomberg or reading up on the latest technological machine learning innovations. I am highly interested in providing skills to a company within the fintech, investment, or technology industry. 
+I am Sonya {Ukrainian for wisdom}, an Accountant with Data Science aspirations. In my spare time, I’m either practicing coding, watching Bloomberg or reading up on the latest technological machine learning innovations. I am highly interested in providing skills to a company within the fintech, investment, or technology industry. 
 
 Check out what I'm currently working on/learning here!
 
