@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!-- Most Used Languages Infograph then Tools & Languages -->
+<a href="https://github.com/Sonya-7">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=chartreuse-dark" alt="Top languages" />
+</a>
 <!--
 **Sonya-7/Sonya-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
