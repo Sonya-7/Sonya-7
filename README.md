@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!-- Most Used Languages Infograph then Tools & Languages -->
 <a href="https://github.com/Sonya-7">
