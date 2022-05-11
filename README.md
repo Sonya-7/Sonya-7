@@ -2,7 +2,7 @@
 
 <!-- Text Under Headline -->
 ## 👨🏾‍💻About Me:
-I am Sonya {Ukrainian for wisdom}, a Data Scientist with an Accounting background. In my spare time, I’m either practicing Python, watching Bloomberg, reading personal development books, reading up on the latest artificial intelligence innovations or playing board games. I am highly interested in providing skills to a company within the fintech, investment, education or technology industry. 
+I am Sonya {Ukrainian for wisdom}, a Data Scientist with extensive Accounting experience. In my spare time, I’m either practicing Python, watching Bloomberg, reading personal development books, reading up on the latest artificial intelligence innovations or playing board games. I am highly interested in providing skills to a company within the fintech, investment, education or technology industry. 
 
 Check out what I'm currently working on/learning here!
 
