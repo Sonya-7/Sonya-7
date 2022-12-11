@@ -2,7 +2,7 @@
 
 <!-- Text Under Headline -->
 ## 👩🏾‍💻 About Me 👩🏾‍🍳:
-I am Sonya {Ukrainian for wisdom}, a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg, reading personal development books, experimenting in the kitchen, researching random topics of interest or playing board games. I am highly interested in utelizing my skills for a company within the fintech, investment, education or technology industry. I love to learn and create. Let's collaborate!
+I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg, reading personal development books, experimenting in the kitchen, researching random topics of interest or playing board games. I am highly interested in utelizing my skills for a company within the fintech, investment, education or technology industry. I love to learn and create. Let's collaborate!
 
 👇🏾 Check out what I'm currently working on/learning here! 👇🏾
 
