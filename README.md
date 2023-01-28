@@ -26,7 +26,7 @@ I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting ex
 
 <!-- Statistics -->
 
-![Sonya's Stats](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=aura&count_private=true&hide=stars,prs,issues)
+![Sonya's Stats](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=aura&count_private=true&layout=compact&hide=stars,prs,issues)
 <!--
 **Sonya-7/Sonya-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
