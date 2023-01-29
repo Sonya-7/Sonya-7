@@ -21,17 +21,23 @@ I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting ex
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=aura" alt="Top Languages Used"/>
 </a>
 
-<br/>
-<hr>
 
 <!-- Statistics -->
-
-![Sonya's Stats](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=aura&count_private=true&layout=compact&hide=stars,prs,issues&include_all_commits=true)
 <!--
+<br/>
+
+<hr>
+
+![Sonya's Stats](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=aura&count_private=true&layout=compact&include_all_commits=true)
+-->
+
+
+
+
+<!-- 
 **Sonya-7/Sonya-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
