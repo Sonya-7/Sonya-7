@@ -4,14 +4,12 @@
 ## 👩🏾‍💻 About Me 👩🏾‍🍳:
 I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg for investment and futuristic ideas, reading personal development books, experimenting in the kitchen, researching random topics of interest and playing board games. I love to learn and create. Let's collaborate!
 
-👇🏾 Check out what I'm currently working on/learning here! 👇🏾
+## 📫 Connect with me👇🏾 
 
 </a>
 <! -- Kaggle Image -->
 <a href="https://www.kaggle.com/sonyalawrence">
   <img align="left center" alt="Sonya Lawrence-Thompson | Kaggle" width="22px" src="https://user-images.githubusercontent.com/92489108/212355520-e84fa356-1e97-4170-8efd-0e2ee8912bb8.png" />
-  
-## 📫 Connect with me👇🏾 
  
 </a>
 <! -- Linkedin Image -->
