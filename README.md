@@ -10,7 +10,9 @@ I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting ex
 <! -- Kaggle Image -->
 <a href="https://www.kaggle.com/sonyalawrence">
   <img align="left center" alt="Sonya Lawrence-Thompson | Kaggle" width="22px" src="https://user-images.githubusercontent.com/92489108/212355520-e84fa356-1e97-4170-8efd-0e2ee8912bb8.png" />
-   
+  
+## 📫 Connect with me👇🏾 
+ 
 </a>
 <! -- Linkedin Image -->
 <a href="https://www.linkedin.com/in/sonya-lawrence6559/">
