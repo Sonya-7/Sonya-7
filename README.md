@@ -21,16 +21,8 @@ I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting ex
 <hr>
 <!-- Most Used Languages Infograph then Tools & Languages -->
 <a href="https://github.com/Sonya-7">
-  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=aura" alt="Top Languages Used"/>
+  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=aura" alt="Top Languages Used"/>
 </a>
-
-<!-- Statistics -->
-<br/>
-<hr>
-
-![Sonya's Stats](https://github-readme-stats.vercel.app/api?username=sonya-7&show_icons=true&theme=aura&count_private=true&layout=compact&include_all_commits=true)
-
-
 
 
 
