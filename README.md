@@ -14,7 +14,7 @@ I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting ex
 </a>
 <! -- Linkedin Image -->
 <a href="https://www.linkedin.com/in/sonya-lawrence6559/">
-  <img align="left" alt="Sonya Lawrence-Thompson | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sonya Lawrence-Thompson | LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
 <br/>
 
