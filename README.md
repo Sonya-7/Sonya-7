@@ -5,21 +5,26 @@
 I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg for investment and futuristic ideas, reading personal development books, experimenting in the kitchen, researching random topics of interest and playing board games. I love to learn and create. Let's collaborate!
 
 ## 📫 Connect with me👇🏾 
+</a>
+<! -- Linkedin Image -->
+<a href="https://www.linkedin.com/in/sonya-lt/">
+  <img align="left" alt="Sonya Lawrence-Thompson | LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 
 </a>
 <! -- Kaggle Image -->
 <a href="https://www.kaggle.com/sonyalawrence">
-  <img align="left center" alt="Sonya Lawrence-Thompson | Kaggle" width="22px" src="https://user-images.githubusercontent.com/92489108/212355520-e84fa356-1e97-4170-8efd-0e2ee8912bb8.png" />
- 
+  <img align="left" alt="Sonya Lawrence-Thompson | Kaggle" width="22px" src="https://avatars.githubusercontent.com/u/1336944?s=200&v=4" />
+
 </a>
-<! -- Linkedin Image -->
-<a href="https://www.linkedin.com/in/sonya-lawrence6559/">
-  <img align="left" alt="Sonya Lawrence-Thompson | LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
+<! -- Twitter Image -->
+<a href="https://twitter.com/Sonya_Lawrence1">
+  <img align="left" alt="Sonya Lawrence-Thompson | Twitter" width="22px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
+  
 </a>
 <br/>
 
 <hr>
-<!-- Most Used Languages Infograph then Tools & Languages -->
+<!-- Most Used Languages Infographic then Tools & Languages -->
 <a href="https://github.com/Sonya-7">
   <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=aura" alt="Top Languages Used"/>
 </a>
