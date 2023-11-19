@@ -2,9 +2,9 @@
 
 <!-- Text Under Headline -->
 ## 👩🏾‍💻 About Me 👩🏾‍🍳:
-I am Sonya (Ukrainian for wisdom), a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg for investment and futuristic ideas, reading personal development books, experimenting in the kitchen, researching random topics of interest and playing board games. I love to learn and create. Let's collaborate!
+I am Sonya (Ukrainian for wisdom); a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg for investment and futuristic ideas, reading personal development books, experimenting in the kitchen, researching random topics of interest and playing board games. I love to learn and create. Let's collaborate!
 
-## 📫 Connect with me👇🏾 
+## 📫 Connect with me 👇🏾 
 </a>
 <! -- Linkedin Image -->
 <a href="https://www.linkedin.com/in/sonya-lt/">
