@@ -5,18 +5,18 @@
 I am Sonya (Ukrainian for wisdom); a Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python, watching Bloomberg for investment and futuristic ideas, reading personal development books, experimenting in the kitchen, researching random topics of interest and playing board games. I love to learn and create. Let's collaborate!
 
 ## 📫 Connect with me 👇🏾 
-</a>
-<! -- Linkedin Image -->
+
+<!-- Linkedin Image -->
 <a href="https://www.linkedin.com/in/sonya-lt/">
   <img align="left" alt="Sonya Lawrence-Thompson | LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 
 </a>
-<! -- Kaggle Image -->
+<!-- Kaggle Image -->
 <a href="https://www.kaggle.com/sonyalawrence">
   <img align="left" alt="Sonya Lawrence-Thompson | Kaggle" width="22px" src="https://avatars.githubusercontent.com/u/1336944?s=200&v=4" />
 
 </a>
-<! -- Twitter Image -->
+<!-- Twitter Image -->
 <a href="https://twitter.com/Sonya_Lawrence1">
   <img align="left" alt="Sonya Lawrence-Thompson | Twitter" width="22px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
   
