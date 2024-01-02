@@ -26,7 +26,7 @@ I am Sonya (Ukrainian for wisdom); a budding Data Scientist with extensive Accou
 <hr>
 <!-- Most Used Languages Infographic then Tools & Languages -->
 <a href="https://github.com/Sonya-7">
-  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=aura" alt="Top Languages Used"/>
+  <img align="center" width="975" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonya-7&layout=compact&theme=aura" alt="Top Languages Used"/>
 </a>
 
 
