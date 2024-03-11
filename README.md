@@ -1,10 +1,10 @@
-### Hey there 👋🏾
+### Hey there 👋🏾 
 
 <!-- Text Under Headline -->
 ## 👩🏾‍💻 About Me 👩🏾‍🍳:
 I am Sonya (Ukrainian for wisdom); a budding Data Scientist with extensive Accounting experience. In my spare time, I enjoy practicing Python and SQL, watching Bloomberg for investment and futuristic ideas, reading personal development books, experimenting in the kitchen, researching random topics of interest, dancing and playing board games. I love to learn and create. Let's collaborate!
 
-## 📫 Connect with me 👇🏾 
+## 📫 Connect With Me 👇🏾 
 
 <!-- Linkedin Image -->
 <a href="https://www.linkedin.com/in/sonya-lt/">
